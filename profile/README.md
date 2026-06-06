@@ -1,4 +1,7 @@
 <div align="center">
+
+
+<img src="https://raw.githubusercontent.com/YooStack-Studio/.github/main/profile/banner.png" alt="YooStack Studio Banner" width="100%">
   
 # ✨ YooStack Studio
 
@@ -7,7 +10,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/YooStack-Studio?style=social)](https://github.com/YooStack-Studio)
 [![GitHub stars](https://img.shields.io/github/stars/YooStack-Studio?style=social)](https://github.com/YooStack-Studio)
 
-<img src="https://raw.githubusercontent.com/YooStack-Studio/.github/main/profile/banner.png" alt="YooStack Studio Banner" width="100%">
 
 </div>
 
