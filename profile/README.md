@@ -3,11 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/YooStack-Studio/.github/main/profile/banner.png" 
      alt="YooStack Studio Banner" 
-     width="100%" 
-     height="200px"
+     width="50%" 
      style="object-fit: cover; object-position: center;">
-  
-# ✨ YooStack Studio
 
 **创新 · 开放 · 共创**
 
